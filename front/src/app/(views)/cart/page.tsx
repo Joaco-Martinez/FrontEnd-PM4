@@ -15,7 +15,6 @@ const Cart: FC = () => {
               Your Cart
             </h1>
           </header>
-
           <ContenedorCalculareItems />
         </div>
       </div>
